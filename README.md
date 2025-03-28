@@ -9,9 +9,9 @@
 
 ## Parameter
 
-\[
-n = 8, \quad q = 3329, \quad k = 2, \quad \eta_1 = 3, \quad \eta_2 = 2, \quad d_u = 10, \quad d_v = 4
-\]
+$$
+n = 8,\quad q = 3329,\quad k = 2,\quad \eta_1 = 3,\quad \eta_2 = 2,\quad d_u = 10,\quad d_v = 4
+$$
 
 주요 개념과 알고리즘의 핵심 원리, 증명 과정 및 Python 기반 코드 예제를 포함하고 있습니다. Toy Cipher 예제를 통해 알고리즘의 전체적인 동작 과정을 쉽게 이해할 수 있도록 구성했습니다.
 
