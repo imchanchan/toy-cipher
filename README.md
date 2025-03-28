@@ -19,13 +19,13 @@ n = 8, \quad q = 3329, \quad k = 2, \quad \eta_1 = 3, \quad \eta_2 = 2, \quad d_
 ## 예제 실행 화면
 
 ### 1. KeyGen
-![KEM KeyGen](images/keygen.png)
-![PKE KeyGen](images/pke_keygen.png)
+![KEM KeyGen](images/KEMGen.png)
+![PKE KeyGen](images/PKEGen.png)
 
 ### 2. Encapsulation & Encryption
-![KEM Encapsulation](images/kem_encaps.png)
-![PKE Encryption](images/pke_encrypt.png)
+![KEM Encapsulation](images/KEMEncaps.png)
+![PKE Encryption](images/PKEEncrypt.png)
 
 ### 3. Decapsulation & Decryption
-![KEM Decapsulation](images/kem_decaps.png)
-![PKE Decryption](images/pke_decrypt.png)
+![KEM Decapsulation](images/KEMDecaps.png)
+![PKE Decryption](images/PKEDecrypt.png)
