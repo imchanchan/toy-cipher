@@ -1,11 +1,10 @@
-## Kyber & Dilithium: NIST 양자 내성 암호 Toy Cipher
+## Kyber : NIST 양자 내성 암호 Toy Cipher
 
 **기간:** 2023.11.20 - 2024.02.27
 
 이 프로젝트는 NIST의 PQC(Post-Quantum Cryptography) 표준 알고리즘인 **Kyber**와 **Dilithium**의 이해를 돕기 위해 작성되었습니다.
 
 - **Kyber**: 양자 내성 공개 키 암호화 및 키 캡슐화 메커니즘(KEM)
-- **Dilithium**: 양자 내성 디지털 서명 알고리즘(ML-DSA)
 
 
 ## Parameter
