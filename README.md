@@ -1,6 +1,7 @@
 ## Kyber Toy Cipher
 
 **기간:** 2023.11.20 - 2024.02.27
+**RB연구실** 
 
 이 프로젝트는 NIST의 PQC(Post-Quantum Cryptography) 표준 알고리즘인 **Kyber**의 이해를 돕기 위해 작성되었습니다.
 
